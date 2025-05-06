@@ -1,8 +1,5 @@
 # Pandas-Matplotlib-Data-Analysis
 
-cat << 'EOF' > README.md
-# Data Analysis Assignment
-
 This repo contains:
 - **analysis.ipynb**: Jupyter notebook demonstrating data loading, exploration, analysis, and plotting using the Iris dataset.
 - **analysis.py**: Standalone Python script with the same steps.
